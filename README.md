@@ -93,7 +93,8 @@ plt.legend()
 plt.show()
 ```
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](img/roc.png)
+![Feature Importance](img/fi.png)
 
 ## Results & Outputs
 - **Model Performance:**
